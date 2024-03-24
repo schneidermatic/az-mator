@@ -1,5 +1,3 @@
-# AzMator
-
 ![LOGO](Resources/Images/Logo01.png)
 
 This repository contains a the source files for the AzMator Script Framework.
